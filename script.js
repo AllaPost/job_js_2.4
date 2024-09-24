@@ -131,12 +131,12 @@ console.log("Число больше 10 введено!");
 
 // Задание 8: Применение цикла do-while
 
-let number = 0;
+let number1 = 0;
 
 do {
-    number = prompt("Введите число:"); 
-    number = Number(number); 
-} while (number <= 10); 
+    number1 = prompt("Введите число:"); 
+    number1 = Number(number); 
+} while (number1 <= 10); 
 
 console.log("Число больше 10 введено!");
 
